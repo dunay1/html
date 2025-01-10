@@ -20,7 +20,7 @@ body {
 
 .container a:hover {
     text-decoration: none;
-    background-color: brown;
+    background-color: skyblue;
     color: white;
 }
 
@@ -55,12 +55,6 @@ body {
     border: 1px solid #f8f9fa;
     border-radius: 5px;
     text-align: center;
-
-}
-
-.option i {
-    color: skyblue;
-
 
 }
 
